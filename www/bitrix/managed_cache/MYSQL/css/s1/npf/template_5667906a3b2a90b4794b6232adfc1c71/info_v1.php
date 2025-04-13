@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/templates/npf/styles.css" => "14499676634","/local/templates/npf/template_styles.css" => "1449967673755",]; ?>
